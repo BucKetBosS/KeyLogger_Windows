@@ -15,7 +15,7 @@ and many more
 
 An executable of the code is present in the  /debug directory
 The Source is present in the /KeyLogger directory
-The output txt file will be saved in same directory as that of the executable
+The output text file will be saved in same directory as that of the executable
 
 Inorder to build the execctable yourself
 In Microsoft Visual Studio Ultimate 2013 goto Build->Build Solution (or Press F7) 
