@@ -3,14 +3,26 @@ This is my first project.
 This is a basic keylogger written completely in C++, making use of the  'GetAsyncKeyState' API
 This is written in Microsoft Visual Studio Ultimate 2013
 
-Features:
+#Features:
+
 monitor the keystrokes
 
-Upcomming:
-Support for Keys that do not have  printable ASCII character equivalent (eg. backspace, tab, etc.)
 Stealth
+
+Log Get Active window name
+
+#Upcomming:
+
+~~Stealth~~ (done)
+
+Support for Keys that do not have  printable ASCII character equivalent (eg. backspace, tab, etc.)
+
+Differentiate between uppercase and lowercase letters
+
 Auto Screenshot
+
 Send the Log to email
+
 and many more
 
 An executable of the code is present in the  /debug directory
